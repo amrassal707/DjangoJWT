@@ -1,1 +1,2 @@
-JWT is a token-based authentication method that follows the security standards of modern big companies in their APIs. I applied the JWT using the Django Rest Framework module and Djoser library
+JWT is a token-based authentication method that follows the security standards of modern big companies in their APIs. I applied the JWT using the Django Rest Framework module and Djoser library.
+I've also applied Rate Limiting/Throttling to the APIs as a part of the security process to protect the API Endpoints. 
