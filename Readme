@@ -1,0 +1,1 @@
+JWT is a token-based authentication method that follows the security standards of modern big companies in their APIs, here I apply the JWT using Django Rest Framework module
